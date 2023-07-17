@@ -7,7 +7,7 @@ cd ./server
 npm run dev
 
 # Run client
-cd ../client
+cd ./client
 
 npm start
 
