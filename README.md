@@ -1,11 +1,12 @@
 # Install dependencies
 npm install
 
-# Run server then client
+# Run server
 cd ./server
 
 npm run dev
 
+# Run client
 cd ../client
 
 npm start
